@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AutoTypingScrollTextView</string>
+    <string name="log_sample">"function createDID() {  const privKey = randomBytes(32); " +
+                " secp256k1.privateKeyVerify(privKey); " +
+                "const pubKey = secp256k1.publicKeyCreate(privKey); " +
+                "secp256k1.verifyEcPoint(pubKey,'compressed'); const did = infraBlockchain.createDid(pubKey);" +
+                " if (!infraBlockchain,}function createDID()" +
+                " {  const privKey = randomBytes(32);  secp256k1.privateKeyVerify(privKey);  " +
+                "const pubKey = secp256k1.publicKeyCreate(privKey);" +
+                " secp256k1.verifyEcPoint(pubKey,'compressed'); " +
+                "const did = infraBlockchain.createDid(pubKey); if (!infraBlockchain,}unction createDID()" +
+                " {  const privKey = randomBytes(32);  secp256k1.privateKeyVerify(privKey);  " +
+                "const pubKey = secp256k1.publicKeyCreate(privKey); secp256k1.verifyEcPoint(pubKey,'compressed'); " +
+                "const did = infraBlockchain.createDid(pubKey); if (!infraBlockchain,}function createDID() " +
+                "{  const privKey = randomBytes(32);  secp256k1.privateKeyVerify(privKey);  " +
+                "const pubKey = secp256k1.publicKeyCreate(privKey); secp256k1.verifyEcPoint(pubKey,'compressed');" +
+                " const did = infraBlockchain.createDid(pubKey); " +
+                "if (!infraBlockchain,}function createDID() {  const privKey = randomBytes(32); "+
+                " secp256k1.privateKeyVerify(privKey);  const pubKey = secp256k1.publicKeyCreate(privKey); " +
+                "secp256k1.verifyEcPoint(pubKey,'compressed'); " +
+                "const did = infraBlockchain.createDid(pubKey); if (!infraBlockchain,}function createDID() " +
+                "{  const privKey = randomBytes(32);  secp256k1.privateKeyVerify(privKey); " +
+                " const pubKey = secp256k1.publicKeyCreate(privKey); secp256k1.verifyEcPoint(pubKey,'compressed');" +
+                " const did = infraBlockchain.createDid(pubKey); if (!infraBlockchain,}function createDID() " +
+                "{  const privKey = randomBytes(32);  secp256k1.privateKeyVerify(privKey);  " +
+                "const pubKey = secp256k1.publicKeyCreate(privKey); secp256k1.verifyEcPoint(pubKey,'compressed'); " +
+                "const did = infraBlockchain.createDid(pubKey); if (!infraBlockchain,}function createDID() " +
+                "{  const privKey = randomBytes(32);  secp256k1.privateKeyVerify(privKey);  const pubKey " +
+                "= secp256k1.publicKeyCreate(privKey); secp256k1.verifyEcPoint(pubKey,'compressed');" +
+                " const did = infraBlockchain.createDid(pubKey); if (!infraBlockchain,}function createDID()" +
+                " {  const privKey = randomBytes(32);  secp256k1.privateKeyVerify(privKey);  const pubKey = secp2" +
+                "56k1.publicKeyCreate(privKey); secp256k1.verifyEcPoint(pubKey,'compressed'); const did = infra" +
+                "Blockchain.createDid(pubKey); if (!infraBlockchain,}function createDID() {  const privKey = ran" +
+                "domBytes(32);  secp256k1.privateKeyVerify(privKey);  const pubKey = secp256k1.publicKeyCreate(pri" +
+                "vKey); secp256k1.verifyEcPoint(pubKey,'compressed'); const did = infraBlockchain.createDid(pubKey);" +
+                " if (!infraBlockchain,}function createDID() {  const privKey = randomBytes(32);  secp256k1.private" +
+                "KeyVerify(privKey);  const pubKey = secp256k1.publicKeyCreate(privKey); secp256k1.verifyEcPoint(pub" +
+                "Key,'compressed'); const did = infraBlockchain.createDid(pubKey); if (!infraBlockchain,}"</string>
+</resources>
